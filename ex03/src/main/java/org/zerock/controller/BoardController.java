@@ -29,7 +29,7 @@ public class BoardController {
 
 	}
 
-	// @GetMapping("/list")
+	// @GetMapping("/list") 
 	// public void list(Model model) {
 	//
 	// log.info("list");
